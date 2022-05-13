@@ -10,7 +10,7 @@ Enter the fields in the GUI and you will receive a 6 digit code in your gmail in
 
 ![signin](https://user-images.githubusercontent.com/74515743/168273975-5907bb1c-c605-48a7-aadc-7c8f2399f62b.png)
 
-Enter your gmail in the field and press verify
+Enter your gmail in the field and press send verification code
 
 ![verify](https://user-images.githubusercontent.com/74515743/168274036-5317e3c5-bc15-42a2-8079-7bb1814fa42b.png)
 
