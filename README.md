@@ -1,6 +1,6 @@
 # Authentication
 
-Simple authentication GUI using tkinter and yag. 
+Simple authentication GUI using tkinter and yagmail. 
 
 ## Usage 
 
