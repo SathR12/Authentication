@@ -43,7 +43,7 @@ def auth():
         title.pack()
         code.pack()
         submit.pack()
-        with yagmail.SMTP("authbot1237@gmail.com", "buba ofun wubd dajc") as yag:
+        with yagmail.SMTP("enter your bot gmail", "enter app password here") as yag:
             random_code = random.randrange(100000, 999999)
             yag.send(sent, "Your sign in code", [str(random_code)])
             
