@@ -61,7 +61,7 @@ def verify_code():
 
  
 #Sign-up button
-sign = Button(menu, text = "Auth", font = ('Arial', 15), height = 5, width = 25, command = sign)
+sign = Button(menu, text = "Sign up", font = ('Arial', 15), height = 5, width = 25, command = sign)
 sign.pack(side = "top")
 
 
